@@ -1,0 +1,1 @@
+java -jar WikiViews-1.0-SNAPSHOT.jar

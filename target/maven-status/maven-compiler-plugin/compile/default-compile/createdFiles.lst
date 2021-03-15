@@ -1,0 +1,6 @@
+datainput\GZIPInput.class
+datainput\IDataInput.class
+wikidata\viewcount\DumpData.class
+com\sato\wikiviews\WikiViews.class
+wikidata\Reporter.class
+wikidata\viewcount\ViewCounter.class
